@@ -238,7 +238,7 @@ h4 {
 #lightbox #close {
   top: 20px;
   right: 10px;
-  font-size: 2em;
+  font-size: 2.2em;
 }
 
 #lightbox #close:hover {
@@ -266,12 +266,14 @@ h4 {
 
 #lightbox #prev {
   bottom: 30px;
-  right: 50px;
+  right: 70px;
+  font-size: 25px;
 }
 
 #lightbox #next {
   right: 20px;
   bottom: 30px;
+  font-size: 25px;
 }
 
 #lightbox #next #prev {
